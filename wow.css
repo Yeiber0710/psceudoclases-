@@ -1,0 +1,33 @@
+*{
+	box-sizing: border-box;
+}
+h1{
+	font-size: 50pt;
+	justify-content: center;
+	display: flex;
+}
+img{
+	height:380px;
+	width:300px;
+	animation-duration:4s;
+}
+.muñeco{
+	display: flex;
+	justify-content: center;
+	background:rgb(217, 255, 0);
+}
+.muñeco1{
+	display: flex;
+	justify-content: center;
+	background:rgb(2, 52, 214);
+}
+.muñeco2{
+	display: flex;
+	justify-content: center;
+	background:rgba(230, 3, 3, 0.979);
+}
+.muñeco3{
+	display: flex;
+	justify-content: center;
+	background:rgb(245, 159, 173);
+}
